@@ -22,8 +22,8 @@
  **************************/
 
 // WIFI
-const char* WIFI_SSID = "BTHub6-539C";
-const char* WIFI_PWD = "GQedXmGYW7eb";
+const char* WIFI_SSID = "Surveillance Van 2";
+const char* WIFI_PWD = "wimustifi";
 
 #define TZ              0       // (utc+) TZ in hours
 #define DST_MN          0      // use 60mn for summer time in some countries
