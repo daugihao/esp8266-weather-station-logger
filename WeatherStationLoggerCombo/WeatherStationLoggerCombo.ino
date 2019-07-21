@@ -26,7 +26,7 @@ const char* WIFI_SSID = "Surveillance Van 2";
 const char* WIFI_PWD = "wimustifi";
 
 #define TZ              0       // (utc+) TZ in hours
-#define DST_MN          0      // use 60mn for summer time in some countries
+#define DST_MN          60      // use 60mn for summer time in some countries
 
 // Setup
 const int UPDATE_INTERVAL_SECS = 10 * 60; // Update every 10 minutes
